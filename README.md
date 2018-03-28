@@ -1,8 +1,6 @@
 Freetronics ProtoBase 420
 =========================
-Copyright 2015 Freetronics Pty Ltd  
-Freetronics site:  www.freetronics.com  
-Freetronics email: info@freetronics.com  
+Copyright 2015 Freetronics Pty Ltd www.freetronics.com  
 
 ProtoBase 420 is a prototyping circuit board designed to follow the
 same format as common 400-point solderless breadboards. It can be
